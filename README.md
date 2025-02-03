@@ -1,5 +1,5 @@
 # Project-3
-Funnel Analysis – Swiggy Project Using MS excel and report
+Funnel Analysis – Project Using MS excel and report
 - Designed and implemented a drone-enabled food delivery model to enhance speed and cost efficiency.
 - Developed an integrated system with drone fleet setup, hubs, and real-time order allocation, and conducted a cost-benefit
 analysis.
